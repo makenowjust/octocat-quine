@@ -2,7 +2,7 @@
 
 It is __true__ self-reproduction program (the so-called Quine).
 
-Let's propagate it!
+Let's propagate it! :octocat: :octocat: :octo
 
 
 ##How to propagate
@@ -24,7 +24,7 @@ and, please type your GitHub username and password.
 
 ##What is Quine?
 
-Quine is self-reproduction program.
+[Quine](http://en.wikipedia.org/wiki/Quine_%28computing%29) is self-reproduction program.
 
 For example:
 
@@ -36,7 +36,7 @@ This is the program to show the text, which is same the program.
 It is the minimal example of Quine.
 
 In the same way,
-[octocat.js](https://github.com/MakeNowJust/octocat-quine/blob/master/octocat.js) is the program to show self, but also to create a [Gist](https://gist.github.com/MakeNowJust/e2b6b142799a6a525add).
+[octocat.js](https://github.com/MakeNowJust/octocat-quine/blob/master/octocat.js) is the program to show self, but also to __create a [Gist](https://gist.github.com/MakeNowJust/e2b6b142799a6a525add)__. So it is __true__ self-reproduction program.
 
 
 ##License
