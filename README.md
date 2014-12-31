@@ -1,4 +1,4 @@
-#Octocat Quine :octocat:
+#Octocat Quine :octocat: [![Travis-CI](https://secure.travis-ci.org/MakeNowJust/octocat-quine.png?branch=master)](http://travis-ci.org/MakeNowJust/octocat-quine)
 
 It is __true__ self-reproduction program (the so-called Quine).
 
