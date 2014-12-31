@@ -2,7 +2,7 @@
 
 It is __true__ self-reproduction program (the so-called Quine).
 
-Let's propagate it! :octocat: :octocat: :octocat: :octocat: .... :ocatcat:
+Let's propagate it! :octocat: :octocat: :octocat: :octocat: .... :octocat:
 
 
 ##How to propagate
