@@ -36,6 +36,6 @@ Som it is **true** self-reproduction program.
 
 ## License
 
-[MIT License](http://makenowjust.mit-license.org/2014-2021)
+[![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 
 2014-2021 (C) TSUYUSATO "MakeNowJust" Kitsune
