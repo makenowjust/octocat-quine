@@ -1,28 +1,23 @@
-#Octocat Quine :octocat: [![Travis-CI](https://secure.travis-ci.org/MakeNowJust/octocat-quine.png?branch=master)](http://travis-ci.org/MakeNowJust/octocat-quine)
+# Octocat Quine :octocat:
 
-It is __true__ self-reproduction program (the so-called Quine).
+It is **true** self-reproduction program (the so-called Quine).
 
 Let's propagate it! :octocat: :octocat: :octocat: :octocat: .... :octocat:
 
-
-##How to propagate
+## How to propagate
 
 ```console
 $ git clone https://github.com/MakeNowJust/octocat-quine.git
-Cloning into 'octocat-quine'...
-remote: Counting objects: 3, done.
-remote: Compressing objects: 100% (2/2), done.
-remote: Total 3 (delta 0), reused 3 (delta 0)
-Unpacking objects: 100% (3/3), done.
-Checking connectivity... done.
 $ cd octocat-quine
 $ node octocat.js
 ```
 
 and, please type your GitHub username and password.
 
+Note that if you use 2FA for GitHub login, please input a personal access token with `gist` scope instead of a password.
+It is known [GitHub limitation](https://docs.github.com/en/github/authenticating-to-github/accessing-github-using-two-factor-authentication#authenticating-on-the-command-line-using-https).
 
-##What is Quine?
+## What is Quine?
 
 [Quine](http://en.wikipedia.org/wiki/Quine_%28computing%29) is self-reproduction program.
 
@@ -35,10 +30,12 @@ eval(s='console.log("eval(s="+JSON.stringify(s)+")")')
 This is the program to show the text, which is same the program.
 It is the minimal example of Quine.
 
-In the same way,
-[octocat.js](https://github.com/MakeNowJust/octocat-quine/blob/master/octocat.js) is the program to show self, but also to __create a [Gist](https://gist.github.com/MakeNowJust/e2b6b142799a6a525add)__. So it is __true__ self-reproduction program.
+In the same way, [octocat.js](https://github.com/MakeNowJust/octocat-quine/blob/master/octocat.js) is the program to show self,
+but also to **create a [Gist](https://gist.github.com/MakeNowJust/e2b6b142799a6a525add)**.
+Som it is **true** self-reproduction program.
 
+## License
 
-##License
+[MIT License](http://makenowjust.mit-license.org/2014-2021)
 
-This program is released under the [MIT License](http://makenowjust.mit-license.org/2014).
+2014-2021 (C) TSUYUSATO "MakeNowJust" Kitsune
